@@ -1,4 +1,5 @@
 <template>
+<!-- Sample comment -->
   <div class="search-box-wrap-outer">
     <div class="search-item-wrap">
       <input
@@ -45,7 +46,7 @@ export default {
       searchQuery: "",
       isSuggestionsOn: false,
       isSuggestionsLoading: false,
-      suggestionsObj: [],
+      suggestionsObj: []
     };
   },
   methods: {
