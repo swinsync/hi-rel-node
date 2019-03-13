@@ -45,7 +45,7 @@ export default {
       searchQuery: "",
       isSuggestionsOn: false,
       isSuggestionsLoading: false,
-      suggestionsObj: []
+      suggestionsObj: [],
     };
   },
   methods: {
